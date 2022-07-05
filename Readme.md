@@ -1,5 +1,5 @@
 # Build Status
-[![Build Status]([http://351e-82-65-231-125.ngrok.io:80/buildStatus/icon?job=AMN_CICD_MULTINODES_SITE_STATIC)]([http://192.168.99.10:8080]http://351e-82-65-231-125.ngrok.io:80/job/AMN_CICD_MULTINODES_SITE_STATIC/)
+[![Build Status](http://351e-82-65-231-125.ngrok.io:80/buildStatus/icon?job=AMN_CICD_MULTINODES_SITE_STATIC)](http://351e-82-65-231-125.ngrok.io:80/job/AMN_CICD_MULTINODES_SITE_STATIC/)
 
 # Partie I : CICD du site web statique
 
